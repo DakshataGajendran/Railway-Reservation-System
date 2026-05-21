@@ -1,8 +1,8 @@
 # Railway-Reservation-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No:212223240021
+# Name: Dakshata G 
+# Date: 21/05/2026
 
 
 # AIM:
@@ -119,7 +119,29 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
+# DIAGRAMS:
+## CLASS DIAGRAM
+![EX3 ClassDiagram](https://github.com/user-attachments/assets/811f3ca5-f74e-46b9-8165-3d372133c6c8)
 
+
+## USECASE DIAGRAM
+![EX3 UseCaseDiagram](https://github.com/user-attachments/assets/46bb70f9-0093-47b2-af35-9b969c82219e)
+
+
+## ACTIVITY DIAGRAM
+
+![EX3 ActivityDiagram](https://github.com/user-attachments/assets/e0d4735e-a047-4274-9d9c-60bfe021ab1d)
+
+## PACKAGE DIAGRAM
+![EX3 PackageDiagram](https://github.com/user-attachments/assets/f8796665-280d-487c-9875-be24cb8dfb6e)
+
+
+## SEQUENCE DIAGRAM
+![EX3 SequenceDiagram](https://github.com/user-attachments/assets/c1072870-969b-434b-84fc-57521150846e)
+
+
+## COMMUNICATION DIAGRAM
+![EX3 CommunicationDiagram](https://github.com/user-attachments/assets/6c9cebbf-3e35-4e1b-982c-7e6a5dba5704)
 
 
 
